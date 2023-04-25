@@ -23,12 +23,13 @@ def validate(file)
     puts "Valid!"
   else
     puts "Errors:"
-    results.errors.each { |err| puts err.to_s }
+    results.errors.each { |err| puts err }
     puts "Warnings:"
-    results.warnings.each { |err| puts err.to_s }
+    results.warnings.each { |err| puts err }
     exit 1
   end
 end
+
 
 validate "index.html"
 validate File.join "assets", "css", "style.css"
