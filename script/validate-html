@@ -16,12 +16,18 @@ def validate(file)
   puts "Checking #{file}..."
 
   path = File.expand_path "../_site/#{file}", __dir__
-  results = validator(file).validate_file(path)
+  validator = validator(file)
+  results = validator.validate_file(path)
 
-  return puts "Valid!" if results.errors.empty?
-
-  # results.errors.each { |err| puts err.to_s }
-  exit 1
+  if results.errors.empty?
+    puts "Valid!"
+  else
+    puts "Errors:"
+    results.errors.each { |err| puts err.to_s }
+    puts "Warnings:"
+    results.warnings.each { |err| puts err.to_s }
+    exit 1
+  end
 end
 
 validate "index.html"
