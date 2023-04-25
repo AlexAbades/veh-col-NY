@@ -2,9 +2,16 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Index
 
 [Link to another page](./another-page.html).
+[1 - Motivation](./pages/motivation.md).
+[2 - Basic Statistics](./basic-stats.md).
+[3 - Data Analysis](./basic-stats.md).
+[4 - Genre](./basic-stats.md).
+[5 - Visualizations](./basic-stats.md).
+[6 - Discussion](./basic-stats.md).
+[7 - Contributions](./basic-stats.md).
 
 There should be whitespace between paragraphs.
 
