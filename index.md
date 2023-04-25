@@ -4,22 +4,23 @@ layout: default
 
 # Index
 
-[Link to another page](./another-page.html).
+<center>
 
-[1 - Motivation](./pages/motivation.md).
+[1 - Motivation](./pages/motivation.html).
 
-[2 - Basic Statistics](./pages/basic-stats.md).
+[2 - Basic Statistics](./pages/basic-stats.html).
 
-[3 - Data Analysis](./pages/data-analysis.md).
+[3 - Data Analysis](./pages/data-analysis.html).
 
-[4 - Genre](./pages/genre.md).
+[4 - Genre](./pages/genre.html).
 
-[5 - Visualizations](./visualizations.md).
+[5 - Visualizations](./pages/visualizations.html).
 
-[6 - Discussion](./pages/discussion.md).
+[6 - Discussion](./pages/discussion.html).
 
-[7 - Contributions](./pages/contribution.md).
+[7 - Contributions](./pages/contribution.html).
 
+<center>
 
 There should be whitespace between paragraphs.
 
