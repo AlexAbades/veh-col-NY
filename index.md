@@ -4,7 +4,6 @@ layout: default
 
 # Index
 
-<center>
 
 [1 - Motivation](./pages/motivation.html).
 
@@ -20,7 +19,7 @@ layout: default
 
 [7 - Contributions](./pages/contribution.html).
 
-<center>
+
 
 There should be whitespace between paragraphs.
 
