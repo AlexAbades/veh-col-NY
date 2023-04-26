@@ -8,7 +8,7 @@ layout: default
 _yay_
 
 <div class="nextbutton-container">
-  <a href="/veh-col-NY/pages/visualizations.html" class="previous-button">Visualizations</a>
+  <a href="../pages/visualizations.html" class="previous-button">Visualizations</a>
   <a href="{{ site.baseurl }}/" class="home-button">Home</a>
-  <a href="/veh-col-NY/pages/contribution.html" class="next-button">Contribution</a>
+  <a href="../pages/contribution.html" class="next-button">Contribution</a>
 </div>

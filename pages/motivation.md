@@ -20,6 +20,6 @@ Our goal for the end user's experience with this dataset would be to provide ins
 
 <div class="nextbutton-container">
   <a href="{{ site.baseurl }}/" class="previous-button">Home</a>
-  <a href="/veh-col-NY/pages/basic-stats.html" class="next-button">Basic Statistics</a>
+  <a href="../pages/basic-stats.html" class="next-button">Basic Statistics</a>
 </div>
 
