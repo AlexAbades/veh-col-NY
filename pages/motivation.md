@@ -12,6 +12,7 @@ ichsdivcdsvhdsvh
 
 <div class="nextbutton-container">
   <a href="{{ site.baseurl }}/" class="previous-button">Previous Page</a>
+  <a href="{{ site.baseurl }}/" class="home-button">Home</a>
   <a href="/veh-col-NY/pages/basic-stats.html" class="next-button">Next Page</a>
 </div>
 
