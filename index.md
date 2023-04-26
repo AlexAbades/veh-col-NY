@@ -30,7 +30,7 @@ Summary
 
 * * * 
 
-<iframe width="550" height="300" src="https://www.youtube.com/embed/2po4f17rj7U" title="Motor Vehicle Collisions In New York City"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="506" height="300" src="https://www.youtube.com/embed/2po4f17rj7U" title="Motor Vehicle Collisions In New York City"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <p>
 </p>
