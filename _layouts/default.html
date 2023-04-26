@@ -29,18 +29,19 @@
     <div class="shell">
 
       <header>
-        <span class="ribbon-outer">
-          <span class="ribbon-inner">
+        <div class="ribbon-outer">
+          <div class="ribbon-inner">
             <h1>{{ site.title | default: site.github.repository_name }}</h1>
             <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-          </span>
-          <span class="left-tail"></span>
+          </div>
+          <div class="left-tail"></span>
           <span class="right-tail"></span>
         </span>
       </header>
 
       {% if site.show_downloads %}
         <section id="downloads">
+          <h2>Downloads</h2>
           <span class="inner">
             <a href="{{ site.baseurl }}/assets/data/clean_dataset.zip" class="zip">DATA<em>download</em></a><a href="{{ site.baseurl }}/assets/scripts/New_York_Collisions.zip" class="zip">CODE<em>download</em></a>
           </span>
