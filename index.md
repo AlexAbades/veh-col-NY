@@ -5,9 +5,9 @@ layout: default
 # Index
 
 <!-- <div class="btn-container"> -->
-
+<div>
 <a href="./pages/motivation.htm" class="btn">Motivation</a>
-
+</div>
 
 [1 - Motivation](./pages/motivation.html).
 
