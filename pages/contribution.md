@@ -4,7 +4,8 @@ layout: default
 
 ## Contribution
 
-_yay_
+Here we specify the contributions
+
 
 <div class="nextbutton-container">
   <a href="../pages/discussion.html" class="previous-button">Discussion</a>
