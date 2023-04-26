@@ -28,6 +28,28 @@ layout: default
 
 
 
+<iframe width="560" height="315" src="./images/test1.mp4" frameborder="0" allowfullscreen></iframe>
+
+
+<iframe width="560" height="315" src="./images/test2.mp4" frameborder="0" allowfullscreen></iframe>
+
+
+<video width="320" height="240" autoplay muted>
+  <source src="https://www.youtube.com/watch?v=2po4f17rj7U" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+
+<video width="320" height="240" autoplay muted>
+  <source src="./images/test1.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+
+<video width="320" height="240" autoplay muted>
+  <source src="./images/test2.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 
 There should be whitespace between paragraphs.
