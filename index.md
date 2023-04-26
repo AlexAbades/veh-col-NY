@@ -4,26 +4,31 @@ layout: default
 
 # Index
 
-<!-- <div class="btn-container"> -->
+
 <div class="btn-container">
-<a href="./pages/motivation.htm" class="btn">Motivation</a>
+<a href="./pages/motivation.htm" class="btn">1 - Motivation</a>
+
+<a href="./pages/basic-stats.htm" class="btn">2 - Basic Statistics</a>
+
+<a href="./pages/data-analysis.htm" class="btn">Motivation</a>
+
+<a href="./pages/genre.htm" class="btn">Motivation</a>
+
+<a href="./pages/visualizations.htm" class="btn">Motivation</a>
+
+<a href="./pages/discussion.htm" class="btn">Motivation</a>
+
+<a href="./pages/contribution.htm" class="btn">Motivation</a>
+
 </div>
 
-[1 - Motivation](./pages/motivation.html).
 
-[2 - Basic Statistics](./pages/basic-stats.html).
 
-[3 - Data Analysis](./pages/data-analysis.html).
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=2po4f17rj7U" frameborder="0" allowfullscreen></iframe>
 
-[4 - Genre](./pages/genre.html).
 
-[5 - Visualizations](./pages/visualizations.html).
 
-[6 - Discussion](./pages/discussion.html).
 
-[7 - Contributions](./pages/contribution.html).
-
-<!-- </div> -->
 
 There should be whitespace between paragraphs.
 
