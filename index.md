@@ -4,7 +4,9 @@ layout: default
 
 # Index
 
-<a href="./motivation.html" class="btn">Back html</a>
+<div class="btn-container">
+<a href="./pages/motivation.htm" class="btn">Motivation</a>
+
 
 [1 - Motivation](./pages/motivation.html).
 
@@ -20,7 +22,7 @@ layout: default
 
 [7 - Contributions](./pages/contribution.html).
 
-
+</div>
 
 There should be whitespace between paragraphs.
 
