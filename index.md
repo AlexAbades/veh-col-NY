@@ -5,7 +5,7 @@ layout: default
 # Index
 
 <!-- <div class="btn-container"> -->
-<div>
+<div class="text-center">
 <a href="./pages/motivation.htm" class="btn">Motivation</a>
 </div>
 
