@@ -6,33 +6,29 @@ layout: default
 
 
 <div class="btn-container">
-<a href="./pages/motivation.htm" class="btn">1 - Motivation</a>
+<a href="./pages/motivation.html" class="btn">1 - Motivation</a>
 
-<a href="./pages/basic-stats.htm" class="btn">2 - Basic Statistics</a>
+<a href="./pages/basic-stats.html" class="btn">2 - Basic Statistics</a>
 
-<a href="./pages/data-analysis.htm" class="btn">Motivation</a>
+<a href="./pages/data-analysis.html" class="btn">3 - Data Analysis</a>
 
-<a href="./pages/genre.htm" class="btn">Motivation</a>
+<a href="./pages/genre.html" class="btn">Genre</a>
 
-<a href="./pages/visualizations.htm" class="btn">Motivation</a>
+<a href="./pages/visualizations.html" class="btn">Visualizations</a>
 
-<a href="./pages/discussion.htm" class="btn">Motivation</a>
+<a href="./pages/discussion.html" class="btn">Discussion</a>
 
-<a href="./pages/contribution.htm" class="btn">Motivation</a>
+<a href="./pages/contribution.html" class="btn">Contribution</a>
 
 </div>
 
 
 
-<!-- <video width="320" height="240" controls>
-  <source src="./images/pitch.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video> -->
-
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/2po4f17rj7U" title="Motor Vehicle Collisions In New York City" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-<!-- <iframe width="1280" height="720" src="https://www.youtube.com/embed/XH6IT_tsSUI" title="Christopher Tin: Live at Cadogan Hall - Waloyo Yamoni" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
+<iframe width="550" height="300" src="https://www.youtube.com/embed/2po4f17rj7U" title="Motor Vehicle Collisions In New York City" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 
 There should be whitespace between paragraphs.
 

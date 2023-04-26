@@ -9,6 +9,7 @@
     text-decoration: none;
     display: inline-block;
     font-size: 1.5em;
+    width: 550px;
     max-width: 550px;
     margin: 10px;
     text-align: center;
@@ -17,3 +18,19 @@
   .btn-container{
       text-align: center;
   }
+
+  .nextbutton-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 2em;
+  }
+  
+  .previous-button {
+    margin-right: auto;
+  }
+  
+  .next-button {
+    margin-left: auto;
+  }
+  
