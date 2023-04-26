@@ -2,8 +2,13 @@
 layout: default
 ---
 
-## Welcome to another page
+## Discussion
+* * *
 
 _yay_
 
-[back](./)
+<div class="nextbutton-container">
+  <a href="/veh-col-NY/pages/visualizations.html" class="previous-button">Visualizations</a>
+  <a href="{{ site.baseurl }}/" class="home-button">Home</a>
+  <a href="/veh-col-NY/pages/contribution.html" class="next-button">Contribution</a>
+</div>

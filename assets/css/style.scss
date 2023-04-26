@@ -38,5 +38,14 @@
       margin: auto;
   }
 
+  .text {
+      text-align: justify;
+      text-justify: inter-word;
+  }
+
+  .last-page .next-button {
+    display: none;
+  }
+
 
   
