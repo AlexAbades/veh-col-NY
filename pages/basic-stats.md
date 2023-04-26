@@ -6,7 +6,7 @@ layout: default
 * * *
 <div class="text">
 The properties of the motor vehicle collisions dataset in New York City are the following:
-<em>someem<em>
+<em>someem</em>
 **Date Range**: The dataset may contain information on car accidents that occurred within a specific time period, such as a month, year, or multiple years.\
 **Geo-Data**: The dataset contains information on the geographic location of car accidents, including latitude and longitude coordinates, addresses and zip code.\
 **Severity**: The dataset contains information on the severity of car accidents, such as the number of fatalities or injuries.\
