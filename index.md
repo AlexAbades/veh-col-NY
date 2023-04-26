@@ -24,13 +24,15 @@ layout: default
 
 
 
-<video width="320" height="240" autoplay muted>
+<!-- <video width="320" height="240" controls>
   <source src="./images/pitch.mp4" type="video/mp4">
 Your browser does not support the video tag.
-</video>
+</video> -->
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/2po4f17rj7U" title="Motor Vehicle Collisions In New York City" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-
+<!-- <iframe width="1280" height="720" src="https://www.youtube.com/embed/XH6IT_tsSUI" title="Christopher Tin: Live at Cadogan Hall - Waloyo Yamoni" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 
 There should be whitespace between paragraphs.
 
