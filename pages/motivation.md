@@ -8,11 +8,11 @@ _yay_
 
 [back_](../)
 
-<a href="../index.html" class="btn">Back html</a>
+<!-- <a href="../index.html" class="btn">Back html</a>
 
 <a href="/veh-col-NY/index.html" class="btn">Back html parent</a>
 
 <a href="{{ site.baseurl }}/" class="btn">Back baseurl</a>
 
 
-<a href="/veh-col-NY/pages/basic-stats.html" class="btn">Basic Statistics</a>
+<a href="/veh-col-NY/pages/basic-stats.html" class="btn">Basic Statistics</a> -->
