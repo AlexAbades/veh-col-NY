@@ -6,9 +6,8 @@ layout: default
 
 _yay_
 
-<div class="nextbutton-container last-page">
+<div class="nextbutton-container">
   <a href="/veh-col-NY/pages/discussion.html" class="previous-button">Discussion</a>
-  <a href="{{ site.baseurl }}/" class="home-button">Home</a>
-  <a href="/veh-col-NY/pages/motivation.html" class="next-button">Motivation</a>
+  <a href="{{ site.baseurl }}/" class="home-button-lastpage">Home</a>
 </div>
 
