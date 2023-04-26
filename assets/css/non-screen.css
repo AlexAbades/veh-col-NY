@@ -153,11 +153,3 @@ hr {
   background: transparent url('../images/hr-2x.jpg') center center repeat-x;
 }
 
-.btn {
-  background-color: #9b4dca;
-  color: #fff;
-  padding: 10px 20px;
-  border-radius: 5px;
-  text-decoration: none;
-  display: inline-block;
-}
