@@ -12,13 +12,13 @@ layout: default
 
 <a href="./pages/data-analysis.html" class="btn">3 - Data Analysis</a>
 
-<a href="./pages/genre.html" class="btn">Genre</a>
+<a href="./pages/genre.html" class="btn">4 - Genre</a>
 
-<a href="./pages/visualizations.html" class="btn">Visualizations</a>
+<a href="./pages/visualizations.html" class="btn">5 - Visualizations</a>
 
-<a href="./pages/discussion.html" class="btn">Discussion</a>
+<a href="./pages/discussion.html" class="btn">6 - Discussion</a>
 
-<a href="./pages/contribution.html" class="btn">Contribution</a>
+<a href="./pages/contribution.html" class="btn">7 - Contribution</a>
 
 </div>
 
