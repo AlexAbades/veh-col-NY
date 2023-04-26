@@ -13,4 +13,3 @@ _yay_
   <a href="{{ site.baseurl }}/" class="home-button">Home</a>
   <a href="../pages/discussion.html" class="next-button">Discussion</a>
 </div>
-
